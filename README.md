@@ -8,4 +8,6 @@ you can (example key shortcut) __[ ctrl + alt + j ]__ and gnome-screenshot insta
 
 This works pretty well and the speed is great.
 
+
+
 Dependencies: tesseract-ocr, imagemagick, gnome-screenshot, xclip
